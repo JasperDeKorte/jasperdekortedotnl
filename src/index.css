@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  background-image: url(./img/uganda.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
