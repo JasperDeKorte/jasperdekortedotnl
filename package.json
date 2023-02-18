@@ -1,6 +1,5 @@
 {
   "name": "jasperdekortedotnl",
-  "homepage": "jasperdekorte.nl",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
